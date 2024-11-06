@@ -37,9 +37,9 @@ You should implement the following mock-ups into user interfaces
 1. Make API requests to our server on the following address:
    https://menutender-testing-597ef11a2ec3.herokuapp.com/api/assessment/
 2. Please note that the server is open to the following methods and endpoints
-   1. POST `add-category/your-username` to add a new category.
-   2. GET `categories/your-username` to retrieve a list of all categories.
-   3. DELETE `category/your-username/categoryId` to delete a category.
+   1. POST `add-category/your-first-name` to add a new category.
+   2. GET `categories/your-first-name` to retrieve a list of all categories.
+   3. DELETE `category/your-first-name/categoryId` to delete a category.
 3. Your POST request to the server should have the following schema
    {
    category: string
@@ -51,10 +51,9 @@ You should implement the following mock-ups into user interfaces
 2. Redux plays crucial role in our various projects, so we expect you to utilize it.
 3. Feel free to design the given mock-up as you please (speaking of aesthetics).
 4. When you are done and are ready to submit your work
-   1. create a local branch bearing your username.
+   1. create a local branch bearing your first name and date of submission.
+      For example, John-1311. 13 represents the day and 11 the month. Please adhere to this format.
    2. Push your work to your remote branch and create a pull request.
-5. Your username is your first name with a suffix of your candidate number.
-   For example, John-1311. Please adhere to this format.
-6. Note that failure to successfully execute the step 4 and 5 above may result to your work not being assessed.
+5. Note that failure to successfully execute the step 4 above may result to your work not being assessed.
 
 # Good Luck! :)
